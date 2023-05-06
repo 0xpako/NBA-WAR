@@ -1,15 +1,3 @@
----
-title: Nba War Predictor
-emoji: 🏀
-colorFrom: red
-colorTo: yellow
-sdk: gradio
-sdk_version: 3.6
-app_file: app.py
-pinned: true
-license: cc
-duplicated_from: andrewkroening/nba-war-predictor
----
 ## General
 
 In the NBA, Wins Above Replacement (WAR) is one of many metrics used to measure player performance. WAR denotes how much better (or worse) a player is when compared to an average level replacement player of the same position. Higher WARs are better, and typically will cluster closer to values in the single digits, with all-star players reaching into the high-20s in exceptional cases.
