@@ -10,15 +10,6 @@ pinned: true
 license: cc
 duplicated_from: andrewkroening/nba-war-predictor
 ---
-
-# Hello and welcome to this NBA WAR Predictor Tool
-
-[![Continuous Integration](https://github.com/andrewkroening/nba-war-predictor-tool/actions/workflows/main.yml/badge.svg)](https://github.com/andrewkroening/nba-war-predictor-tool/actions/workflows/main.yml)    [![Sync to Hugging Face hub](https://github.com/andrewkroening/nba-war-predictor-tool/actions/workflows/hugging_face_cicd.yml/badge.svg)](https://github.com/andrewkroening/nba-war-predictor-tool/actions/workflows/hugging_face_cicd.yml)
-
-[You can find the NBA WAR Predictor here.](https://huggingface.co/spaces/andrewkroening/nba-war-predictor)
-
-[Here's the demo video where I walk through the tool](https://youtu.be/gKk0_YpTQ90)
-
 ## General
 
 In the NBA, Wins Above Replacement (WAR) is one of many metrics used to measure player performance. WAR denotes how much better (or worse) a player is when compared to an average level replacement player of the same position. Higher WARs are better, and typically will cluster closer to values in the single digits, with all-star players reaching into the high-20s in exceptional cases.
